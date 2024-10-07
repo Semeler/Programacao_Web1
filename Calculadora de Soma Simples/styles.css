@@ -6,7 +6,7 @@ body {
     margin-top: 50px;
 }
 
-.calculator {
+.calculadora {
     max-width: 300px;
     padding: 20px;
     border: 1px solid #ccc;
@@ -14,14 +14,14 @@ body {
     box-shadow: 0 4px 8px #111;
 }
 
-.calculator input {
+.calculadora input {
     width: 100%;
     padding: 10px;
     margin: 5px 0;
     box-sizing: border-box;
 }
 
-.calculator button {
+.calculadora button {
     width: 100%;
     padding: 10px;
     background-color: #4CAF50;
@@ -31,6 +31,6 @@ body {
     cursor: pointer;
 }
 
-.calculator button:hover {
+.calculadora button:hover {
     background-color: #45a049;
 }
